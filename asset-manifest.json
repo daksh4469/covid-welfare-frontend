@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/covid-welfare-frontend/static/css/main.693185c6.chunk.css",
-    "main.js": "/covid-welfare-frontend/static/js/main.83cb6f9f.chunk.js",
-    "main.js.map": "/covid-welfare-frontend/static/js/main.83cb6f9f.chunk.js.map",
+    "main.js": "/covid-welfare-frontend/static/js/main.b46a8373.chunk.js",
+    "main.js.map": "/covid-welfare-frontend/static/js/main.b46a8373.chunk.js.map",
     "runtime-main.js": "/covid-welfare-frontend/static/js/runtime-main.6f6f53f0.js",
     "runtime-main.js.map": "/covid-welfare-frontend/static/js/runtime-main.6f6f53f0.js.map",
     "static/js/2.56b03a37.chunk.js": "/covid-welfare-frontend/static/js/2.56b03a37.chunk.js",
     "static/js/2.56b03a37.chunk.js.map": "/covid-welfare-frontend/static/js/2.56b03a37.chunk.js.map",
     "index.html": "/covid-welfare-frontend/index.html",
-    "precache-manifest.a805bc3cee02f0f5fd3d96ff35a65e9e.js": "/covid-welfare-frontend/precache-manifest.a805bc3cee02f0f5fd3d96ff35a65e9e.js",
+    "precache-manifest.0f9f88fa438497a28dea3381da77e04a.js": "/covid-welfare-frontend/precache-manifest.0f9f88fa438497a28dea3381da77e04a.js",
     "service-worker.js": "/covid-welfare-frontend/service-worker.js",
     "static/css/main.693185c6.chunk.css.map": "/covid-welfare-frontend/static/css/main.693185c6.chunk.css.map",
     "static/js/2.56b03a37.chunk.js.LICENSE.txt": "/covid-welfare-frontend/static/js/2.56b03a37.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.6f6f53f0.js",
     "static/js/2.56b03a37.chunk.js",
     "static/css/main.693185c6.chunk.css",
-    "static/js/main.83cb6f9f.chunk.js"
+    "static/js/main.b46a8373.chunk.js"
   ]
 }
